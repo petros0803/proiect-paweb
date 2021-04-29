@@ -9,7 +9,7 @@ function App() {
     <Switch>
       <div>
         <Navbar />
-        <Route path="/" exact>
+        <Route path="" exact>
           {" "}
           <Aboutme leftPage={<AboutmePage />} />{" "}
         </Route>
