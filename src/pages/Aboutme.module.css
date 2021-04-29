@@ -1,0 +1,47 @@
+.container {
+  width: 1100px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.leftContainer {
+  width: 700px;
+}
+
+.rightContainer {
+  width: 300px;
+  text-align: center;
+}
+
+.meImage {
+  height: 250px;
+  border-radius: 50%;
+}
+
+.FontAwesomeIcon {
+  font-size: 30px;
+  color: black;
+}
+
+.FontAwesomeIcon:visited {
+  color: #ffffff;
+}
+
+.FontAwesomeIcon:hover {
+  color: rgb(220,20,60);
+}
+
+.textDifferentColor{
+    color: rgb(220,20,60);
+}
+
+p{
+    text-indent: 20px;
+}

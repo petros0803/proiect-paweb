@@ -1,0 +1,22 @@
+.navbar{
+    width: 100%;
+    text-align: center;
+    background: black;
+    color: white;
+}
+
+.navbarUl{
+    margin: 0;
+    list-style-type: none;
+}
+
+.navbarUl li{
+    display: inline;
+}
+
+.navbarUl li button{
+    background: transparent;
+    color: white;
+    border: 0px;
+    font-size: 20px;
+}

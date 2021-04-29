@@ -1,0 +1,25 @@
+.images {
+  text-align: center;
+}
+
+.FontAwesomeIcon {
+  font-size: 90px;
+  margin-left: 30px;
+  color: black;
+}
+
+.FontAwesomeIcon:hover {
+  color: rgb(220, 20, 60);
+}
+
+.FontAwesomeIcon:visited {
+  color: #ffffff;
+}
+
+.textDifferentColor{
+    color: rgb(220,20,60);
+}
+
+a{
+    text-decoration: none;
+}
