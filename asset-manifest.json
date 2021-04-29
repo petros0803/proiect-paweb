@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/proiect-paweb/static/css/main.e74285e2.chunk.css",
+    "main.js": "/proiect-paweb/static/js/main.269c181d.chunk.js",
+    "main.js.map": "/proiect-paweb/static/js/main.269c181d.chunk.js.map",
+    "runtime-main.js": "/proiect-paweb/static/js/runtime-main.6043869f.js",
+    "runtime-main.js.map": "/proiect-paweb/static/js/runtime-main.6043869f.js.map",
+    "static/js/2.bab44fe7.chunk.js": "/proiect-paweb/static/js/2.bab44fe7.chunk.js",
+    "static/js/2.bab44fe7.chunk.js.map": "/proiect-paweb/static/js/2.bab44fe7.chunk.js.map",
+    "index.html": "/proiect-paweb/index.html",
+    "static/css/main.e74285e2.chunk.css.map": "/proiect-paweb/static/css/main.e74285e2.chunk.css.map",
+    "static/js/2.bab44fe7.chunk.js.LICENSE.txt": "/proiect-paweb/static/js/2.bab44fe7.chunk.js.LICENSE.txt",
+    "static/media/me2.351b9285.png": "/proiect-paweb/static/media/me2.351b9285.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6043869f.js",
+    "static/js/2.bab44fe7.chunk.js",
+    "static/css/main.e74285e2.chunk.css",
+    "static/js/main.269c181d.chunk.js"
+  ]
+}
